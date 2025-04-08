@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-This project involves developing a Power BI dashboard to analyze urgent air freight trends and provide insights into the primary reasons for last-minute shipments. The dashboard visualizes freight costs across air, road, and sea, with a focus on identifying patterns in urgent air shipments. It enables logistics team to assess recurring causes for urgency, supporting better planning and the strategic use of cost-effective alternatives like sea and road freight. The reporting tool provides actionable insights to optimize freight management and reduce unnecessary air transport expenses.
+The project involves the development of a Power BI dashboard to analyze urgent air freight trends and uncover the primary drivers behind last-minute shipments. The dashboard visualizes freight costs across air, road, and sea, with a particular focus on identifying patterns in urgent air freight. It enables the logistics team to evaluate recurring causes of urgency, supporting proactive planning and the strategic use of more cost-effective alternatives such as sea and road transport. The reporting tool delivers actionable insights to optimize freight management and reduce unnecessary air freight expenditures.
 <br />
 
 
